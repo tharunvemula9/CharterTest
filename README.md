@@ -5,7 +5,7 @@ Steps to run Test
 There are 2 modules microservice and reactUI component
 
 Starting microservice
-1.clone the repo
+1. clone the repo
 2. go to folder charter
 3. open cmd in current location
 4. run command 'mvn clean install'
